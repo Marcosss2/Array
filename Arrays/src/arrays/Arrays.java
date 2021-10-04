@@ -27,7 +27,7 @@ public class Arrays {
             
             
             System.out.println("introduce nombre");
-            personas[1].setNombre(lectura.nextLine());
+            personas[i].setNombre(lectura.nextLine());
         
             System.out.println("personas [" + i + " ] ->" 
                 + personas[i].getNombre());
